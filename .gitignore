@@ -1,0 +1,13 @@
+# Maven
+/target/
+/.idea/
+*.iml
+*.log
+*.class
+
+# Reports
+/reports/
+/screenshots/
+
+# Environment
+.env
